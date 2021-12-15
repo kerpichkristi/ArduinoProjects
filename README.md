@@ -14,8 +14,8 @@ Based on Arduino Nano
 
 ![Schemas3D](https://imgur.com/PZyt1v3.png)
 
-##Functions
+##Functions:
 
-1)Color change from thermistor temperature
-2)Color change based on CPU temperature
-3)Automatic air flow control
+-Color change from thermistor temperature
+-Color change based on CPU temperature
+-Automatic air flow control
